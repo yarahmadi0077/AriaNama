@@ -1,3 +1,6 @@
+![Screenshot 2025-04-11 152013](https://github.com/user-attachments/assets/b6757a93-d0bf-4170-b022-7a1dc32a372c)
+![Screenshot 2025-04-11 152038](https://github.com/user-attachments/assets/a4a8c385-4b06-4134-89c6-037320c2f6c1)
+
 # **AriaNama Construction Accounting System**  
 
 ## **Professional Accounting Solution for Construction Material Management**  
