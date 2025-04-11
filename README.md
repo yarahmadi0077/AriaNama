@@ -59,8 +59,8 @@ The company required a **custom accounting solution** to efficiently track mater
 ### **Installation**  
 1. Clone the repository:  
    ```bash
-   git clone [https://github.com/yarahmadi0077/AriaNama.git]
-   cd [accounting/src]
+   git clone https://github.com/yarahmadi0077/AriaNama.git
+   cd accounting/src
    ```
 
 2. Install required packages:  
