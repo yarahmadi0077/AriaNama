@@ -1,5 +1,3 @@
-![Screenshot 2025-04-11 152013](https://github.com/user-attachments/assets/b6757a93-d0bf-4170-b022-7a1dc32a372c)
-![Screenshot 2025-04-11 152038](https://github.com/user-attachments/assets/a4a8c385-4b06-4134-89c6-037320c2f6c1)
 
 # **AriaNama Construction Accounting System**  
 
@@ -103,3 +101,11 @@ The company required a **custom accounting solution** to efficiently track mater
 - **Data Storage**: CSV (compatible with Excel)  
 
 ---
+## **dark theme:**
+![Screenshot 2025-04-11 152013](https://github.com/user-attachments/assets/b6757a93-d0bf-4170-b022-7a1dc32a372c)
+![Screenshot 2025-04-11 152038](https://github.com/user-attachments/assets/a4a8c385-4b06-4134-89c6-037320c2f6c1)
+---
+## **dark theme:**
+![Screenshot 2025-04-11 154048](https://github.com/user-attachments/assets/cdbf8893-b0ba-4d0d-9c27-86170cc036c7)
+![Screenshot 2025-04-11 154111](https://github.com/user-attachments/assets/5779e417-0801-4c2d-a678-20204bb3462a)
+
